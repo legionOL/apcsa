@@ -1,5 +1,3 @@
-package lol.java.chapter7;
-
 public class Hello {
 
 	public static void main(final String[] args) {
