@@ -1,4 +1,4 @@
-package com.example.project;
+package lol.java.chapter7;
 
 public class Hello {
 
